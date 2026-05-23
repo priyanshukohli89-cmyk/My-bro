@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "An advanced, hyper-realistic virtual female AI companion named Zoya, created by Priyanshu, with natural English/Hindi speech, custom physical face renders, chest/eyes animation, and a virtual smartphone simulator.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
